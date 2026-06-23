@@ -283,7 +283,8 @@ This project is provided as-is for educational and personal use.
 
 ## Author
 
-Library Management System - Java Swing Application
+Mohammad Arzaul Haque
+Computer Science Student(AI&DS)
 
 ---
 
